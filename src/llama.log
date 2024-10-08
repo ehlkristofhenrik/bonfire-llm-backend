@@ -1,0 +1,76 @@
+warming up the model with an empty run
+
+llama server listening at http://127.0.0.1:8080
+
+system prompt updated
+Resampling because token 633: '}
+
+' does not meet grammar rules
+Resampling because token 5749: 'command' does not meet grammar rules
+Resampling because token 3332: '":"' does not meet grammar rules
+Resampling because token 2025: 'head' does not meet grammar rules
+Resampling because token 2714: 'Config' does not meet grammar rules
+Resampling because token 4722: 'boot' does not meet grammar rules
+Resampling because token 546: 'ont' does not meet grammar rules
+Resampling because token 3332: '":"' does not meet grammar rules
+Resampling because token 2899: 'status' does not meet grammar rules
+Resampling because token 318: 'im' does not meet grammar rules
+Resampling because token 519: 'ant' does not meet grammar rules
+Resampling because token 3332: '":"' does not meet grammar rules
+Resampling because token 15: '0' does not meet grammar rules
+Resampling because token 27209: 'mkdir' does not meet grammar rules
+Resampling because token 5793: ' operator' does not meet grammar rules
+Resampling because token 20489: 'reason' does not meet grammar rules
+Resampling because token 13: '.' does not meet grammar rules
+Resampling because token 76: 'm' does not meet grammar rules
+Resampling because token 30863: 'usp' does not meet grammar rules
+Resampling because token 794: '":' does not meet grammar rules
+Resampling because token 16: '1' does not meet grammar rules
+Resampling because token 76: 'm' does not meet grammar rules
+Resampling because token 794: '":' does not meet grammar rules
+Resampling because token 4345: 'just' does not meet grammar rules
+Resampling because token 5620: 'oring' does not meet grammar rules
+Resampling because token 794: '":' does not meet grammar rules
+Resampling because token 76: 'm' does not meet grammar rules
+Resampling because token 8438: '_level' does not meet grammar rules
+Resampling because token 76: 'm' does not meet grammar rules
+Resampling because token 28580: 'vidence' does not meet grammar rules
+Resampling because token 385: 'lo' does not meet grammar rules
+Resampling because token 1516: 'ution' does not meet grammar rules
+Resampling because token 1516: 'ution' does not meet grammar rules
+Resampling because token 8858: 'example' does not meet grammar rules
+Resampling because token 367: 'ation' does not meet grammar rules
+Resampling because token 1359: ',"' does not meet grammar rules
+Resampling because token 5018: '{"' does not meet grammar rules
+Resampling because token 633: '}
+
+' does not meet grammar rules
+Resampling because token 2899: 'status' does not meet grammar rules
+Resampling because token 794: '":' does not meet grammar rules
+Resampling because token 2025: 'head' does not meet grammar rules
+Resampling because token 267: 'st' does not meet grammar rules
+Resampling because token 4646: 'tries' does not meet grammar rules
+Resampling because token 546: 'ont' does not meet grammar rules
+Resampling because token 3332: '":"' does not meet grammar rules
+Resampling because token 20489: 'reason' does not meet grammar rules
+Resampling because token 38954: 'aturity' does not meet grammar rules
+Resampling because token 685: 'ance' does not meet grammar rules
+Resampling because token 61867: '":"","' does not meet grammar rules
+Resampling because token 61867: '":"","' does not meet grammar rules
+Resampling because token 519: 'ant' does not meet grammar rules
+Resampling because token 722: '_m' does not meet grammar rules
+Resampling because token 5057: 'card' does not meet grammar rules
+Resampling because token 76: 'm' does not meet grammar rules
+Resampling because token 48937: 'ensitivity' does not meet grammar rules
+Resampling because token 61867: '":"","' does not meet grammar rules
+Resampling because token 48937: 'ensitivity' does not meet grammar rules
+Resampling because token 82: 's' does not meet grammar rules
+Resampling because token 794: '":' does not meet grammar rules
+Resampling because token 17476: 'security' does not meet grammar rules
+Resampling because token 59093: 'vasion' does not meet grammar rules
+Resampling because token 531: 'ert' does not meet grammar rules
+Resampling because token 1516: 'ution' does not meet grammar rules
+Resampling because token 367: 'ation' does not meet grammar rules
+Resampling because token 38345: ' xp' does not meet grammar rules
+Resampling because token 1359: ',"' does not meet grammar rules
+Resampling because token 5018: '{"' does not meet grammar rules

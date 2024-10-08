@@ -27,7 +27,7 @@ with open(IN_FILE, "r") as input_file:
 
 os.system(f"""
 
-static/llama* \\
+../static/llama* \\
     --system-prompt-file {OUT_FILE} \\
     --nobrowser \\
     --parallel {MAX_REQUEST} \\
